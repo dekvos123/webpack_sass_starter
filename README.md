@@ -37,7 +37,7 @@ npm install --global --production windows-build-tools
 ```bash
 yarn run dev
 ```
-5. 服务器监听在4000端口
+5. 服务器监听在4000端口.
 
 ### Build
 1. 克隆项目
