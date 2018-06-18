@@ -7,7 +7,7 @@
 * 分别优化了HTML, CSS, JavaScript
 * 使用SASS预编译器
 
-### Setup
+### Setup 
 1. 克隆项目
 ```bash
 git clone git@github.com:greyu/webpack_sass_starter.git
