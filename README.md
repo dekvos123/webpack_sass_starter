@@ -28,7 +28,7 @@ yrm use taobao
 ```bash
 yarn
 ```
-***如果你是windows用户，你可能在安装sass的时候会报gyp错误，你可以按下面操作试试***
+***如果你是windows用户，你可能在安装sass的时候会报gyp错误，你可以按下面操作试试.***
 ```bash
 npm install -g node-gyp 
 npm install --global --production windows-build-tools
