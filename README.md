@@ -5,7 +5,7 @@
 * babel preset, 使用es6语法
 * 自启动，热加载刷新
 * 分别优化了HTML, CSS, JavaScript
-* 使用SASS预编译器
+* 使用SASS预编译器.
 
 ### Setup 
 1. 克隆项目
