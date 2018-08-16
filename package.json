@@ -2,6 +2,7 @@
   "name": "webpack_sass_starter",
   "version": "1.0.0",
   "description": "this is a starter for webpack, sass. build static website",
+  "github": "github.com/walljser",
   "author": "gre_yu@163.com",
   "main": "index.js",
   "license": "MIT",
